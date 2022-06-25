@@ -1,5 +1,5 @@
 function myFunction() {
-    alert("To move between slids click ob the dots");
+    alert("To move between slids click on the dots");
 }
 
 
