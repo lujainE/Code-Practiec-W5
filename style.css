@@ -229,6 +229,7 @@
     .slid{
         width: 80%;
         margin-right: 20%;
+        overflow: hidden;
     }
     .subcontainer{
         width: 80%;
